@@ -1,5 +1,4 @@
 """OpenAI Conversation integration with conversation history support."""
-"""The OpenAI Conversation integration."""
 
 from __future__ import annotations
 
